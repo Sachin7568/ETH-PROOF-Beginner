@@ -4,7 +4,7 @@ This is a Solidity Project "Token Creation" program.
 
 ## Description
 
-The TokenCreation project creates a token that may be burned and minted. Users can mint new tokens to a specific address to increase Total supply of the "Skull" token (SKL)," or burn existing tokens from that address to reduce the total supply.
+The TokenCreation project creates a token that may be burned and minted. Users can mint new tokens to a specific address to increase the Total supply of the "Skull" token (SKL)," or burn existing tokens from that address to reduce the total supply.
 
 ## Getting Started
 
@@ -52,4 +52,4 @@ Sachin
 
 ## License
 
-This project is licensed under the SKL License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
