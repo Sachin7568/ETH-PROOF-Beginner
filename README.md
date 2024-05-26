@@ -1,4 +1,4 @@
-# Create a Token
+# Token Creation
 
 This is a Solidity Project "Token Creation" program.
 
